@@ -12,63 +12,52 @@ Software Engineer, Data Scientist , Open Source Contributor
 
 _Engineering professional with substantial experience designing and executing solutions for complex business problems involving large scale data analysis, real-time analytics. Knows how to use the right tools when and where they make sense enabling organizations effectively analyze and process TB/PB of structured and unstructured data. 6+ years of experience working on Big Data Ecosystem. DataBricks Certified Spark Developer (August-2015 , Certification No 1.1.0-0170)_
 
-## Professional Skills
-
-
-
 ## Currently
 
-Standing on the shoulders of giants
+Open Source Contributor to [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)<br>
+Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to freelance consulting.
 
-### Specialized in
+## Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Programming Languages - Python ,Java ,Scala
+- Big Data : PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
+- ML /DL/AI :CNN,RNN,LSTM,fast.ai,PyTorch,Linear Regression,Logistic Regression,Descision Trees
+- Django , Git ,Github, Jupyter, VSCode, JIRA
 
-### Research interests
+## Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+NLP , Deep Learning , Image Analysis
+
+## Experience
+
+- SmartNomad - Product Engineer/ Data Scientist `Oct 2017 - May 2020`
+- Big Data Freelancer `May 2017 - Oct 2017`
+- Affine Analytics - Consultant `Nov 2015 - May 2017`
+- AIG Data Solutions - Big Data Developer `Feb 2015 - Nov 2015`
+- Blue Star Infotech - Software Engineer `Aug 2013 - Feb 2015`
 
 ## Education
 
-`1654-1660` **The King's School, Grantham.**
+**JNTUK - Computer Science and Engineering** `2008-2012`<br>
+**Kendriya Vidyalaya - MPC** `2008`<br>
+**Navy Children School - Science** `2006`
 
-`June 1661 - now` **Trinity College, Cambridge**
+## Certification/Independent Coursework
 
-- Sizar
-
-`1667 - death` **Trinity College, Cambridge**
-
-- Fellow
+➢ Databricks O'Reilly Developer Certification for Apache Spark<br>
+➢ R Programming - Coursera<br>
+➢ edX Honor Code Certificate for Introduction to Linux<br>
+➢ Big Data - Spark Fundamentals - IBM<br>
+➢ Hadoop Fundamentals I - Version 3 (bigdatauniversity.com)<br>
+➢ Accessing Hadoop Data Using Hive V2 (bigdatauniversity.com)<br>
+➢ Moving Data into Hadoop (bigdatauniversity.com)<br>
+➢ Hadoop Developer Day (bigdatauniversity.com)<br>
+➢ Hadoop and the Amazon Cloud (bigdatauniversity.com)
 
 ## Awards
 
-`2012` President, _Royal Society_, London, UK
+❏ Affine Analytics - Transformer of the month thrice , transformer of the quarter once<br>
+❏ AIG - Employee of the month for Spark POC<br>
+❏ Blue Star Infotech - Employee of the month twice 
 
-Associate, _French Academy of Science_, Paris, France
-
-## Publications 
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
- ### Journals
-
-`1669` Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669` Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012` Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-## Occupation
-
-`1600` **Royal Mint**, London
-
-- Warden
-- Minted coins
-
-`1600` **Lucasian professor of Mathematics**, Cambridge University 
-
-<!-- ### Footer Last updated: May 2013 -->
+<!-- ### Footer Last updated: May 2020 -->
