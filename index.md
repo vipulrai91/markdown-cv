@@ -2,13 +2,18 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Vipul Rai
+
+Software Engineer, Data Scientist , Open Source Contributor
+
+<div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com</a>
+| <a href="https://vipulrai91.github.io/">vipulrai91.github.io</a></div>
+
+_Engineering professional with substantial experience designing and executing solutions for complex business problems involving large scale data analysis, real-time analytics. Knows how to use the right tools when and where they make sense enabling organizations effectively analyze and process TB/PB of structured and unstructured data. 6+ years of experience working on Big Data Ecosystem. DataBricks Certified Spark Developer (August-2015 , Certification No 1.1.0-0170)_
+
+## Professional Skills
+
 
 
 ## Currently
@@ -19,73 +24,51 @@ Standing on the shoulders of giants
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1654-1660` **The King's School, Grantham.**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`June 1661 - now` **Trinity College, Cambridge**
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`1667 - death` **Trinity College, Cambridge**
 
 - Fellow
 
-
-
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2012` President, _Royal Society_, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+Associate, _French Academy of Science_, Paris, France
 
-
-
-## Publications
+## Publications 
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+ ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`1669` Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
-`1669`
-Lectiones opticæ.
+`1669` Lectiones opticæ.
 
 etc. etc. etc.
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2012` Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`1600` **Royal Mint**, London
 
 - Warden
 - Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`1600` **Lucasian professor of Mathematics**, Cambridge University 
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<!-- ### Footer Last updated: May 2013 -->
