@@ -4,7 +4,7 @@ title: Vipul Rai's CV
 ---
 
 # Vipul Rai
-
+<br>
 Software Engineer, Data Scientist, Open Source Contributor
 
 +91-8892598819
