@@ -5,7 +5,9 @@ title: Vipul Rai's CV
 
 # Vipul Rai
 
-Software Engineer, Data Scientist , Open Source Contributor
+Software Engineer, Data Scientist, Open Source Contributor
+
++91-8892598819
 
 <div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com</a>
 | <a href="https://vipulrai91.github.io/">vipulrai91.github.io</a></div>
@@ -14,8 +16,8 @@ Engineering professional with substantial experience designing and executing sol
 
 ## Currently
 
-Open Source Contributor to [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)<br>
-Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to freelance consulting.
+- Open Source Contributor to [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)<br>
+- Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to Freelance Consulting.
 
 ## Specialized in
 
@@ -26,7 +28,7 @@ Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to f
 
 ## Research interests
 
-NLP , Deep Learning , Image Analysis
+- NLP ,Deep Learning ,Image Analysis
 
 ## Experience
 
@@ -38,26 +40,26 @@ NLP , Deep Learning , Image Analysis
 
 ## Education
 
-JNTUK - Computer Science and Engineering `2008-2012`<br>
-Kendriya Vidyalaya - MPC `2008`<br>
-Navy Children School - Science `2006`
+- B.Tech - JNTUK - Computer Science and Engineering `2008-2012`<br>
+- 12th - Kendriya Vidyalaya - MPC `2008`<br>
+- 10th - Navy Children School - Science `2006`
 
 ## Awards
 
-❏ Affine Analytics - Transformer of the month thrice , transformer of the quarter once<br>
-❏ AIG - Employee of the month for Spark POC<br>
-❏ Blue Star Infotech - Employee of the month twice
+- Affine Analytics - Transformer of the month thrice , transformer of the quarter once
+- AIG - Employee of the month for Spark POC
+- Blue Star Infotech - Employee of the month twice
 
 ## Certification/Independent Coursework
 
-➢ Databricks O'Reilly Developer Certification for Apache Spark<br>
-➢ R Programming - Coursera<br>
-➢ edX Honor Code Certificate for Introduction to Linux<br>
-➢ Big Data - Spark Fundamentals - IBM<br>
-➢ Hadoop Fundamentals I - Version 3 (bigdatauniversity.com)<br>
-➢ Accessing Hadoop Data Using Hive V2 (bigdatauniversity.com)<br>
-➢ Moving Data into Hadoop (bigdatauniversity.com)<br>
-➢ Hadoop Developer Day (bigdatauniversity.com)<br>
-➢ Hadoop and the Amazon Cloud (bigdatauniversity.com) 
+- Databricks O'Reilly Developer Certification for Apache Spark<br>
+- R Programming - Coursera<br>
+- edX Honor Code Certificate for Introduction to Linux<br>
+- Big Data - Spark Fundamentals - IBM<br>
+- Hadoop Fundamentals I - Version 3 (bigdatauniversity.com)<br>
+- Accessing Hadoop Data Using Hive V2 (bigdatauniversity.com)<br>
+- Moving Data into Hadoop (bigdatauniversity.com)<br>
+- Hadoop Developer Day (bigdatauniversity.com)<br>
+- Hadoop and the Amazon Cloud (bigdatauniversity.com) 
 
 <!-- ### Footer Last updated: May 2020 -->
