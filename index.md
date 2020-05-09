@@ -10,7 +10,7 @@ Software Engineer, Data Scientist , Open Source Contributor
 <div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com</a>
 | <a href="https://vipulrai91.github.io/">vipulrai91.github.io</a></div>
 
-_Engineering professional with substantial experience designing and executing solutions for complex business problems involving large scale data analysis, real-time analytics. Knows how to use the right tools when and where they make sense enabling organizations effectively analyze and process TB/PB of structured and unstructured data. 6+ years of experience working on Big Data Ecosystem. DataBricks Certified Spark Developer (August-2015 , Certification No 1.1.0-0170)_
+Engineering professional with substantial experience designing and executing solutions for complex business problems involving large scale data analysis, real-time analytics. Knows how to use the right tools when and where they make sense enabling organizations effectively analyze and process TB/PB of structured and unstructured data. 7+ years of experience working on Big Data Ecosystem. DataBricks Certified Spark Developer (August-2015 , Certification No 1.1.0-0170)
 
 ## Currently
 
@@ -38,9 +38,15 @@ NLP , Deep Learning , Image Analysis
 
 ## Education
 
-_JNTUK - Computer Science and Engineering_ `2008-2012`<br>
-_Kendriya Vidyalaya - MPC_ `2008`<br>
-_Navy Children School - Science_ `2006`
+JNTUK - Computer Science and Engineering `2008-2012`<br>
+Kendriya Vidyalaya - MPC `2008`<br>
+Navy Children School - Science `2006`
+
+## Awards
+
+❏ Affine Analytics - Transformer of the month thrice , transformer of the quarter once<br>
+❏ AIG - Employee of the month for Spark POC<br>
+❏ Blue Star Infotech - Employee of the month twice
 
 ## Certification/Independent Coursework
 
@@ -52,12 +58,6 @@ _Navy Children School - Science_ `2006`
 ➢ Accessing Hadoop Data Using Hive V2 (bigdatauniversity.com)<br>
 ➢ Moving Data into Hadoop (bigdatauniversity.com)<br>
 ➢ Hadoop Developer Day (bigdatauniversity.com)<br>
-➢ Hadoop and the Amazon Cloud (bigdatauniversity.com)
-
-## Awards
-
-❏ Affine Analytics - Transformer of the month thrice , transformer of the quarter once<br>
-❏ AIG - Employee of the month for Spark POC<br>
-❏ Blue Star Infotech - Employee of the month twice 
+➢ Hadoop and the Amazon Cloud (bigdatauniversity.com) 
 
 <!-- ### Footer Last updated: May 2020 -->
