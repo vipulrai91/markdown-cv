@@ -38,9 +38,9 @@ NLP , Deep Learning , Image Analysis
 
 ## Education
 
-**JNTUK - Computer Science and Engineering** `2008-2012`<br>
-**Kendriya Vidyalaya - MPC** `2008`<br>
-**Navy Children School - Science** `2006`
+_JNTUK - Computer Science and Engineering_ `2008-2012`<br>
+_Kendriya Vidyalaya - MPC_ `2008`<br>
+_Navy Children School - Science_ `2006`
 
 ## Certification/Independent Coursework
 
