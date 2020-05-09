@@ -19,12 +19,13 @@ Engineering professional with substantial experience designing and executing sol
 - Open Source Contributor to [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)<br>
 - Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to Freelance Consulting.
 
-## Specialized in
+## Specializations
 
 - Programming Languages - Python ,Java ,Scala
-- Big Data : PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
+- Big Data : PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark Streaming,Kafka,Map Reduce,Hive,HDFS,Solr,YARN,SQL
 - ML /DL/AI :CNN,RNN,LSTM,fast.ai,PyTorch,Linear Regression,Logistic Regression,Descision Trees
 - Django ,Git ,Github ,Jupyter, VSCode, JIRA
+- AWS Lambda ,S3,Ec2
 
 ## Research interests
 
@@ -32,15 +33,15 @@ Engineering professional with substantial experience designing and executing sol
 
 ## Experience
 
-- SmartNomad - Product Engineer/ Data Scientist `Oct 2017 - May 2020`
-- Big Data Freelancer `May 2017 - Oct 2017`
-- Affine Analytics - Consultant `Nov 2015 - May 2017`
-- AIG Data Solutions - Big Data Developer `Feb 2015 - Nov 2015`
-- Blue Star Infotech - Software Engineer `Aug 2013 - Feb 2015`
+- [SmartNomad](https://smartnomad.com/) - Product Engineer/ Data Scientist `Oct 2017 - May 2020`
+- Big Data Freelancer - Consultant  `May 2017 - Oct 2017`
+- [Affine Analytics](https://www.affineanalytics.com/) - Consultant `Nov 2015 - May 2017`
+- [AIG Data Solutions](https://www.aig.com/) - Big Data Developer `Feb 2015 - Nov 2015`
+- [Blue Star Infotech](https://www.infogain.com/) - Software Engineer `Aug 2013 - Feb 2015`
 
 ## Selected Projects
 
-- SmartNomad
+- SmartNomad - Intelligent itinerary builder, one-click booking engine and real-time travel assistant.
   - Built the entire pipeline beginning from data aggregation to the final itinerary.
   - Wrote proprietary algorithm which calculates the scores for each poi
   - Wrote code which adds functionality on top of original solver
@@ -52,13 +53,45 @@ Engineering professional with substantial experience designing and executing sol
   - Used Selenium and [BS4](https://pypi.org/project/beautifulsoup4/) for scrapping
   - Used multiple Google APIs such as distance matrix ,maps, places
   - Used ML algorithm to test the churn analysis
-  - Created prelaunch application 
+  - Created prelaunch application
+
+- Gaming Analytics - To process huge game logs to enable publisher find churn analysis, make future
+marketing strategies, find sentiments of players about the current version of game
+  - Raw data was being generated in json / feeds on Hive
+  - Converted data to parquet format for faster retrieval and less storage.
+  - Creating automated QA module on Spark, which did basic QC of data such as calculating min, max , avg etc for each day’s fresh feed thereby removing the necessity of manual intervention
+  - Wrote an automated Pyspark program which calculated user stats on daily, weekly and monthly level
+  - Created input data set for cross sell model using stats such as available PS Plus points, weekly spend on PS points
+  - Created model to detect fraud and cheat during gameplay
+
+- Travel Portal Optimization - To reduce the number of unqualified searches on portal’s meta channel
+  - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs like ROI/profitability/efficiency.
+  - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) and Random Forest from MlLib.
+
+- Retail Store Revenue Optimization - To identify optimal promo/clearance sale prices which would result in maximum
+sales.
+  - The pricing team was tasked with the challenge to identify optimal promo/clearance sale prices which would result in maximum sales.
+  - Identified multiple factors which impact unit sales during promotions such as Price Elasticity, Seasonality, % sales in each Day-of-the-Week, effect of circulars/promotions, breakage due to unavailability of different sized SKUs, impact of public holidays, etc.
+
+- Travel Portal - Email Marketing and Campaigns - To process huge unstructured data and help the marketing team gain insights about the current promotions and decide future strategies.
+  - Data was being generated at about 2GB per hour in json format.
+  - Converted data to parquet format for faster retrieval and less storage.
+  - Used client API to map the data and convert into standardized format.
+  - Used Qubole for accessing the spark cluster and running the queries.
+  - Wrote program in Pyspark and Scala Spark to select different campaigns for various categories of customers based on Business Rules
+  - Got hands on experience working on AWS Ec2 and S3
+
+- Insurance Log Analyzer - To parse data incoming from 8 different types of servers to be consumed by Power BI
+  - Logs from 8 different types of devices were being generated
+simultaneously.
+  - Used Kafka and Pyspark to generate insights such as - which user was accessing the websites which were blocked etc.
+  - The final result was being used by Power BI for reporting
 
 ## Education
 
-- B.Tech - JNTUK - Computer Science and Engineering `2008-2012`<br>
-- 12th - Kendriya Vidyalaya - MPC `2008`<br>
-- 10th - Navy Children School - Science `2006`
+- B.Tech - [JNTUK](https://www.jntuk.edu.in/) - Computer Science and Engineering `2008-2012`<br>
+- 12th - [Kendriya Vidyalaya](http://kv2svnagar.ap.nic.in/contact.html) - MPC `2008`<br>
+- 10th - [Navy Children School](http://www.ncsvizag.edu.in/104-wing/104-Default.aspx) - Science `2006`
 
 ## Awards
 
@@ -69,6 +102,8 @@ Engineering professional with substantial experience designing and executing sol
 ## Certification/Independent Coursework
 
 - Databricks O'Reilly Developer Certification for Apache Spark<br>
+- fast.ai - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- fast.ai - [Deep Learning for coders](https://course.fast.ai/)
 - R Programming - Coursera<br>
 - edX Honor Code Certificate for Introduction to Linux<br>
 - Big Data - Spark Fundamentals - IBM<br>
