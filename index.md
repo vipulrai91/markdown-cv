@@ -5,7 +5,7 @@ title: Vipul Rai's CV
 
 # Vipul Rai
 <br>
-Software Engineer, Data Scientist, Open Source Contributor
+Software Engineer, Data Engineer, Data Scientist, Open Source Contributor
 
 +91-8892598819
 
@@ -24,7 +24,7 @@ Engineering professional with substantial experience designing and executing sol
 - Programming Languages - Python ,Java ,Scala
 - Big Data : PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
 - ML /DL/AI :CNN,RNN,LSTM,fast.ai,PyTorch,Linear Regression,Logistic Regression,Descision Trees
-- Django , Git ,Github, Jupyter, VSCode, JIRA
+- Django ,Git ,Github ,Jupyter, VSCode, JIRA
 
 ## Research interests
 
@@ -37,6 +37,22 @@ Engineering professional with substantial experience designing and executing sol
 - Affine Analytics - Consultant `Nov 2015 - May 2017`
 - AIG Data Solutions - Big Data Developer `Feb 2015 - Nov 2015`
 - Blue Star Infotech - Software Engineer `Aug 2013 - Feb 2015`
+
+## Selected Projects
+
+- SmartNomad
+  - Built the entire pipeline beginning from data aggregation to the final itinerary.
+  - Wrote proprietary algorithm which calculates the scores for each poi
+  - Wrote code which adds functionality on top of original solver
+  - Built the backend of the core application which provides personalized intelligent itinerary custom made for each user using Django
+  - Built automated framework which tests the effectiveness, feasibility of the itinerary.
+  - Created internal video creator app using [opencv-python](https://pypi.org/project/opencv-python/) and [moviepy](https://pypi.org/project/moviepy/)
+  - Set Up and used [OSRM](http://project-osrm.org/) for routing
+  - Managed a team of 7-9 people and undertook project management
+  - Used Selenium and [BS4](https://pypi.org/project/beautifulsoup4/) for scrapping
+  - Used multiple Google APIs such as distance matrix ,maps, places
+  - Used ML algorithm to test the churn analysis
+  - Created prelaunch application 
 
 ## Education
 
