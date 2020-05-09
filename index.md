@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vipul Rai's CV
 ---
 
 # Vipul Rai
