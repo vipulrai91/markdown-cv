@@ -109,7 +109,6 @@ simultaneously.
 - Big Data - Spark Fundamentals - IBM<br>
 - Hadoop Fundamentals I - Version 3 (bigdatauniversity.com)<br>
 - Accessing Hadoop Data Using Hive V2 (bigdatauniversity.com)<br>
-- Moving Data into Hadoop (bigdatauniversity.com)<br>
 - Hadoop Developer Day (bigdatauniversity.com)<br>
 - Hadoop and the Amazon Cloud (bigdatauniversity.com) 
 
