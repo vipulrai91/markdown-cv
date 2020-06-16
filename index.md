@@ -30,7 +30,7 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 |  Cloud |   AWS Lambda, EC2, S3, API Gateway <br> CDH, Qubole, Google Cloud |
 |  Dev Tools | Django, Github, Jupyter, VSCode, JIRA  |
 
-
+</center>
 
 
                   
