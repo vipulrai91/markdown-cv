@@ -10,7 +10,7 @@ Deep Learning Engineer, Data Engineer, Open Source Contributor
 +91-8892598819
 
 <div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com</a>
-| <a href="https://vipulrai.me/">https://vipulrai.me</a></div>
+| <a href="https://vipulrai.me/">vipulrai.me</a></div>
 
 ## About
 
