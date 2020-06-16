@@ -8,7 +8,7 @@ title: Vipul Rai's CV
 Deep Learning Engineer, Data Engineer, Open Source Contributor<br>
 +91-8892598819
 
-<div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com &nbsp;|  &nbsp; </a> <a href="https://vipulrai.me/">vipulrai.me</a></div>
+<div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com | </a> <a href="https://vipulrai.me/">vipulrai.me</a></div>
 
 ## About
 
@@ -16,7 +16,7 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 
 ## Skills
 
-|   |   |
+|  <!-- -->   |  <!-- -->   |
 |---|---|
 |  Deep Learning |Tensorflow, Pytorch,fast.ai<br> CNN, RNN, LSTM, GAN, Transformers, BERT, DETR<br> Object Recognition, Transfer Learning, OpenCv |
 |  Programming  | Python<br>Scala  |
