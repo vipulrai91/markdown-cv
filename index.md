@@ -19,8 +19,6 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 
 ## Skills
 
-
-  
 |   |   |
 |---|---|
 |  Deep Learning |Tensorflow, Pytorch,fast.ai<br> CNN, RNN, LSTM, GAN, Transformers, BERT, DETR<br> Object Recognition, Transfer Learning, OpenCv |
@@ -29,30 +27,6 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 |  Big Data |    PySpark, Scala- Spark, Data Frames API, Spark SQL, Spark Streaming <br>Kafka, Map Reduce, Hive, HDFS, Solr, YARN, SQL |
 |  Cloud |   AWS Lambda, EC2, S3, API Gateway <br> CDH, Qubole, Google Cloud |
 |  Dev Tools | Django, Github, Jupyter, VSCode, JIRA  |
-
-
-
-                  
-- Deep Learning
-  - Tensorflow, Pytorch,fast.ai
-  - CNN, RNN, LSTM, GAN, Transformers, BERT, DETR
-  - Object Recognition, Transfer Learning, OpenCv
-- Programming
-  - Python
-  - Scala
-- Machine Learning
-  - Linear Regression,Descision Trees,Random Forest
-  - Logistic Regression, Support Vector Machine
-  - KNN, K-Means clustering, XGBOOST
-  - scikit-learn, numpy, pandas
-- Big Data
-  - PySpark, Scala- Spark, Data Frames API, Spark SQL, Spark Streaming
-  - Kafka, Map Reduce, Hive, HDFS, Solr, YARN, SQL
-- Cloud
-  - AWS Lambda, EC2, S3, API Gateway
-  - CDH, Qubole, Google Cloud
-- Dev Tools
-  - Django,Github, Jupyter, VSCode, JIRA
 
 
 ## Experience
