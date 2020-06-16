@@ -5,9 +5,10 @@ title: Vipul Rai's CV
 
 # Vipul Rai
 <br>
-Deep Learning Engineer, Data Engineer, Open Source Contributor
+Deep Learning Engineer, Data Engineer, Open Source Contributor<br>
++91-8892598819
 
-<div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com </a> <a href="https://vipulrai.me/">vipulrai.me</a></div> +91-8892598819
+<div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com &nbsp;|  &nbsp; </a> <a href="https://vipulrai.me/">vipulrai.me</a></div>
 
 ## About
 
