@@ -32,7 +32,7 @@ table{
 	font: inherit;
 	vertical-align: baseline;
 	border-collapse: collapse;
-    border-spacing: 0;
+    border-spacing: 1;
     border:1px solid;
 }
 
