@@ -7,15 +7,12 @@ title: Vipul Rai's CV
 <br>
 Deep Learning Engineer, Data Engineer, Open Source Contributor
 
-+91-8892598819
-
-<div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com</a>
-| <a href="https://vipulrai.me/">vipulrai.me</a></div>
+<div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com |</a>
+| <a href="https://vipulrai.me/">vipulrai.me</a></div> | +91-8892598819
 
 ## About
 
 Analytical and process-oriented engineer with a bachelor in computer science degree, in addition to 7+ years of professional experience handling multiple projects and teams. Python expert, passionate about using analytics to drive strategic business decisions. Excellent interpersonal skills, able to collaborate effectively with technical and non-technical people.
-
 
 ## Skills
 
