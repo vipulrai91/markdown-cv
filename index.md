@@ -12,24 +12,34 @@ Deep Learning Engineer, Data Engineer, Open Source Contributor
 <div id="webaddress"><a href="vipulrai8891@gmail.com">vipulrai8891@gmail.com</a>
 | <a href="https://vipulrai.me/">https://vipulrai.me</a></div>
 
+## About
+
 Analytical and process-oriented engineer with a bachelor in computer science degree, in addition to 7+ years of professional experience handling multiple projects and teams. Python expert, passionate about using analytics to drive strategic business decisions. Excellent interpersonal skills, able to collaborate effectively with technical and non-technical people.
 
-## Currently
 
-- Open Source Contributor to [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)<br>
-- Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to Freelance Consulting.
+## Skills
 
-## Specializations
+- **Deep Learning**
+  - Tensorflow, Pytorch,fast.ai
+  - CNN, RNN, LSTM, GAN, Transformers, BERT, DETR
+  - Object Recognition, Transfer Learning, OpenCv
+- **Programming**
+  - Python
+  - Scala
+- **Machine Learning**
+  - Linear Regression,Descision Trees,Random Forest
+  - Logistic Regression, Support Vector Machine
+  - KNN, K-Means clustering, XGBOOST
+  - scikit-learn, numpy, pandas
+- **Big Data**
+  - PySpark, Scala- Spark, Data Frames API, Spark SQL, Spark Streaming
+  - Kafka, Map Reduce, Hive, HDFS, Solr, YARN, SQL
+- **Cloud**
+  - AWS Lambda, EC2, S3, API Gateway
+  - CDH, Qubole, Google Cloud
+- **Dev Tools**
+  - Django,Github, Jupyter, VSCode, JIRA
 
-- Programming Languages - Python ,Java ,Scala
-- Big Data : PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark Streaming,Kafka,Map Reduce,Hive,HDFS,Solr,YARN,SQL
-- ML /DL/AI :CNN,RNN,LSTM,fast.ai,PyTorch,Linear Regression,Logistic Regression,Descision Trees
-- Django ,Git ,Github ,Jupyter, VSCode, JIRA
-- AWS Lambda ,S3,Ec2
-
-## Research interests
-
-- NLP ,Deep Learning ,Image Analysis
 
 ## Experience
 
