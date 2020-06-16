@@ -4,7 +4,6 @@ title: Vipul Rai's CV
 ---
 
 # Vipul Rai
-<br>
 Deep Learning Engineer, Data Engineer, Open Source Contributor<br>
 +91-8892598819
 
