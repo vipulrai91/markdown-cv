@@ -19,6 +19,17 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 
 ## Skills
 
+
+|  Deep Learning |    - Tensorflow, Pytorch,fast.ai
+                      - CNN, RNN, LSTM, GAN, Transformers, BERT, DETR
+                      - Object Recognition, Transfer Learning, OpenCv |
+| Programming   |  - Python 
+                   - Scala|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
 - Deep Learning
   - Tensorflow, Pytorch,fast.ai
   - CNN, RNN, LSTM, GAN, Transformers, BERT, DETR
